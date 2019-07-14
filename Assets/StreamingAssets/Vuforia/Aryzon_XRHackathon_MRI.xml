@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="AryzonMarker2" size="0.190000 0.190000" />
+    <ImageTarget name="AryzonMarker" size="0.190000 0.190000" />
+  </Tracking>
+</QCARConfig>
